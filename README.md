@@ -7,7 +7,7 @@
 
 <h4 align="left">Connect with me:</h4>
 
-- LinkedIn:  **[Click Here](www.linkedin.com/in/adriansealy)**
+- LinkedIn:  **[Click Here](https://www.linkedin.com/in/adriansealy/)**
 - :mailbox:  **Adriank.sealy@gmail.com**
 
 
