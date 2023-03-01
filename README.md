@@ -6,9 +6,11 @@
 
 
 <h4 align="left">Connect with me:</h4>
- 
-- :mailbox:  **Adriank.sealy@gmail.com**
+
 - LinkedIn:  **[Click Here](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B5FccIjy9RlyIXlYNJqmiWw%3D%3D)**
+- :mailbox:  **Adriank.sealy@gmail.com**
+
+
 
 **This repository shows my portfolio of data analysis projects that I've work on during the Thinkful certification and soon impending projects that have sparked my own interest. Presented in Excel, SQL, or iPython notebook.**
 
