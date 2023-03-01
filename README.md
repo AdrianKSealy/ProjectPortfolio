@@ -16,4 +16,4 @@
 
 **Click the links to be directed towards a Excel file or iPython notebook.**
 
-## Contents 
+## Table of Contents 
