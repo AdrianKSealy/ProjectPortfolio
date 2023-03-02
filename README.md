@@ -46,4 +46,4 @@
 * Identified correlations between YouTube views, likes, and comments and a statitical difference
 
 * Used Python to analyze data and make visualizations
-  *[PowerPoint](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/YouTube%20Analysis%20.pptx.pdf)
+  * [PowerPoint](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/YouTube%20Analysis%20.pptx.pdf)
