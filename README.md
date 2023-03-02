@@ -18,7 +18,7 @@
 
 ## Contents 
 
-### [Project 1: Statistical Analysis: Analyzing Housing Market](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Investment%20for%20mortgage-back%20securities.pptx.pdf)
+### [Project 1: Statistical Analysis: Analyzing Housing Market](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Housing%20Data%20Project.xlsx)
 
 *  Tasked with finding factors that drive home prices
 
