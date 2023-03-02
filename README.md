@@ -20,7 +20,7 @@
 
 ### [Project 1: Statistical Analysis: Analyzing Housing Market]()
 
-*  Tasked to find factors that drive home prices
+*  Tasked with finding factors that drive home prices
 
 *  Used statistics, and visualizations to prove significant differences in my hypotheses
 
