@@ -16,4 +16,14 @@
 
 **Click the links to be directed towards a Excel file or iPython notebook.**
 
-## Table of Contents 
+## Contents 
+
+### [Project 1: Statistical Analysis: Analyzing Housing Market]()
+
+*  Tasked to find factors that drive home prices
+
+*  Used statistics, and visualizations to prove significant differences in my hypotheses
+
+*  Created recommendations and presented my findings
+
+*  Tools used Microsoft Excel and PowerPoint
