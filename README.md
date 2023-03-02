@@ -27,4 +27,4 @@
 *  Created recommendations and presented my findings
 
 *  Tools used Microsoft Excel and PowerPoint
-   * [PowerPoint]()
+   * [PowerPoint](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Investment%20for%20mortgage-back%20securities.pptx)
