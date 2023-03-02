@@ -29,4 +29,4 @@
 *  Tools used Microsoft Excel and PowerPoint
    * [PowerPoint](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Investment%20for%20mortgage-back%20securities.pptx.pdf)
 
-### [Project 2: Exploratory Data Analysis on DoorDash ]()
+### [Project 2: Exploratory Data Analysis on DoorDash ](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/DoorDashQuery.sql)
