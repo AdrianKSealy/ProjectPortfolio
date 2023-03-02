@@ -30,3 +30,19 @@
    * [PowerPoint](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Investment%20for%20mortgage-back%20securities.pptx.pdf)
 
 ### [Project 2: DoorDash Exploratory Analysis  ](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/DoorDashQuery.sql)
+
+* This project was an exploratory analysis with a DoorDash dataset 
+
+* Cleaned, queried, and visualizationed the DoorDash dataset
+
+* Tools used Microsoft SQL Server and Tableau
+
+* [Tableau dashboard](https://public.tableau.com/app/profile/adrian.sealy/viz/DoorDashSalesOverview/DoorDashSalesOverview?publish=yes)
+
+### [Project 3: YouTube Analytics Analysis ](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Youtube%20Advertising%20Project%20.ipynb)
+
+* Tasked with making interpretation of the relationships between views, likes, and comments for businesses seeking to promote with content creators
+
+* Identified correlations between YouTube views, likes, and comments and a statitical difference
+
+* Used Python to analyze data and make visualizations
