@@ -12,7 +12,7 @@
 
 
 
-**This repository shows my portfolio of data analysis projects that I've work on during the Thinkful certification and soon impending projects that have sparked my own interest. Presented in Excel, SQL, or iPython notebook.**
+**This repository shows my portfolio of data analysis projects that I've work on during the Thinkful certification and projects that have sparked my own interest. Presented in Excel, SQL, iPython notebook, or PowerPoint.**
 
 **Click the links to be directed towards a Excel file or iPython notebook.**
 
