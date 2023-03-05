@@ -8,7 +8,7 @@
 <h4 align="left">Connect with me:</h4>
 
 - **[LinkedIn](https://www.linkedin.com/in/adriansealy/)**
-- :mailbox:  **Adriank.sealy@gmail.com**
+- **[Email](Adriank.sealy@gmail.com)**
 
 
 
