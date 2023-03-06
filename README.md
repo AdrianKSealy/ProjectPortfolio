@@ -33,7 +33,7 @@
 
 * This project was an exploratory analysis with a DoorDash dataset 
 
-* Cleaned, queried, and visualizationed the DoorDash dataset
+* Cleaned, queried and visualizationed the DoorDash dataset
 
 * Tools used Microsoft SQL Server and Tableau
 
