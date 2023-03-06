@@ -41,7 +41,7 @@
 
 ### [Project 3: YouTube Analytics Analysis ](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Youtube%20Advertising%20Project%20.ipynb)
 
-* Tasked with making interpretation of the relationships between views, likes, and comments for businesses seeking to promote with content creators
+* Tasked with making interpretations of the relationships between views, likes, and comments for businesses seeking to promote with content creators
 
 * Identified correlations between YouTube views, likes, and comments and a statitical difference
 
