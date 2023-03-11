@@ -18,7 +18,21 @@
 
 ## Contents 
 
-### [Project 1: Statistical Analysis: Analyzing Housing Market](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Housing%20Data%20Project.xlsx)
+### [Project 1: Global Terrorism Database]()
+
+* With this project I was given four question from a stakeholder to provide visualations for
+
+- How has the number of terrorist activities changed over the years? Are there certain regions where this trend is different from the global averages?
+- Is the number of incidents and the number of casualties correlated? Can you spot any irregularities or outliers?
+- What are the most common methods of attacks? Does it differ in various regions or in time?
+- Plot the locations of attacks on a map to visualize their regional spread
+
+* Used SQL queries and visualizations
+
+*Tools used Microsoft SQL Server and Tableau
+  *[Tableau Dashboard](https://public.tableau.com/app/profile/adrian.sealy/viz/GlobalTerrorismData_16784036586160/GlobalTerrorism?publish=yes)
+
+### [Project 2: Statistical Analysis: Analyzing Housing Market](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Housing%20Data%20Project.xlsx)
 
 *  Tasked with finding factors that drive home prices
 
@@ -29,7 +43,7 @@
 *  Tools used Microsoft Excel and PowerPoint
    * [PowerPoint](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Investment%20for%20mortgage-back%20securities.pptx.pdf)
 
-### [Project 2: DoorDash Exploratory Analysis  ](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/DoorDashQuery.sql)
+### [Project 3: DoorDash Exploratory Analysis  ](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/DoorDashQuery.sql)
 
 * This project was an exploratory analysis with a DoorDash dataset 
 
@@ -38,7 +52,7 @@
 * Tools used Microsoft SQL Server and Tableau
 
 
-### [Project 3: YouTube Analytics Analysis ](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Youtube%20Advertising%20Project%20.ipynb)
+### [Project 4: YouTube Analytics Analysis ](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Youtube%20Advertising%20Project%20.ipynb)
 
 * Tasked with making interpretations of the relationships between views, likes, and comments for businesses seeking to promote with content creators
 
