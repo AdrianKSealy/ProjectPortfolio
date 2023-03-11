@@ -37,7 +37,6 @@
 
 * Tools used Microsoft SQL Server and Tableau
 
-  * [Tableau dashboard](https://public.tableau.com/app/profile/adrian.sealy/viz/DoorDashSalesOverview/DoorDashSalesOverview?publish=yes)
 
 ### [Project 3: YouTube Analytics Analysis ](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Youtube%20Advertising%20Project%20.ipynb)
 
