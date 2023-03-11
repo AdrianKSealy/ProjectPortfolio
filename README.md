@@ -30,6 +30,7 @@
 * Used SQL queries and visualizations
 
 *Tools used Microsoft SQL Server and Tableau
+  
   *[Tableau Dashboard](https://public.tableau.com/app/profile/adrian.sealy/viz/GlobalTerrorismData_16784036586160/GlobalTerrorism?publish=yes)
 
 ### [Project 2: Statistical Analysis: Analyzing Housing Market](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Housing%20Data%20Project.xlsx)
