@@ -22,10 +22,10 @@
 
 * With this project I was given four question from a stakeholder to provide visualations for
 
-1 How has the number of terrorist activities changed over the years? Are there certain regions where this trend is different from the global averages?
-2 Is the number of incidents and the number of casualties correlated? Can you spot any irregularities or outliers?
-3 What are the most common methods of attacks? Does it differ in various regions or in time?
-4 Plot the locations of attacks on a map to visualize their regional spread
+1. How has the number of terrorist activities changed over the years? Are there certain regions where this trend is different from the global averages?
+2. Is the number of incidents and the number of casualties correlated? Can you spot any irregularities or outliers?
+3. What are the most common methods of attacks? Does it differ in various regions or in time?
+4. Plot the locations of attacks on a map to visualize their regional spread
 
 * Used SQL queries and visualizations
 
