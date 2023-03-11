@@ -20,21 +20,21 @@
 
 ### [Project 1: Global Terrorism Database]()
 
-* With this project I was given four question from a stakeholder to provide visualations for
+* I was given four questions by a stakeholder to provide visualizations for this project
 
 1. How has the number of terrorist activities changed over the years? Are there certain regions where this trend is different from the global averages?
 2. Is the number of incidents and the number of casualties correlated? Can you spot any irregularities or outliers?
 3. What are the most common methods of attacks? Does it differ in various regions or in time?
 4. Plot the locations of attacks on a map to visualize their regional spread
 
-* Used SQL queries and visualizations
+* Used SQL queries and visualizations to analyze the data
 
 * Tools used Microsoft SQL Server and Tableau
   * [Tableau Dashboard](https://public.tableau.com/app/profile/adrian.sealy/viz/GlobalTerrorismData_16784036586160/GlobalTerrorism?publish=yes)
 
 ### [Project 2: Statistical Analysis: Analyzing Housing Market](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Housing%20Data%20Project.xlsx)
 
-*  Tasked with finding factors that drive home prices
+*  My task was to identify factors that drive home prices
 
 *  Used statistics, and visualizations to prove significant differences in my hypotheses
 
@@ -45,7 +45,7 @@
 
 ### [Project 3: DoorDash Exploratory Analysis  ](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/DoorDashQuery.sql)
 
-* This project was an exploratory analysis with a DoorDash dataset 
+* This project involved conducting an exploratory analysis using a DoorDash dataset
 
 * Cleaned, queried and visualizationed the DoorDash dataset
 
@@ -54,7 +54,7 @@
 
 ### [Project 4: YouTube Analytics Analysis ](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/Youtube%20Advertising%20Project%20.ipynb)
 
-* Tasked with making interpretations of the relationships between views, likes, and comments for businesses seeking to promote with content creators
+* I was tasked with interpreting the relationships between views, likes, and comments for businesses that are seeking to promote themselves through content creators
 
 * Identified correlations between YouTube views, likes, and comments and a statitical difference
 
