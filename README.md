@@ -18,7 +18,7 @@
 
 ## Contents 
 
-### [Project 1: Global Terrorism Database]()
+### [Project 1: Global Terrorism Database](https://github.com/AdrianKSealy/ProjectPortfolio/blob/main/GTD_Terrorism_Project.sql)
 
 * I was given four questions by a stakeholder to provide visualizations for this project
 
